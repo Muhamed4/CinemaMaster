@@ -2,6 +2,38 @@
 
 **MovieShow Booking** is an online movie ticket booking system that allows users to search for movies, check available shows, reserve seats, and make secure payments. The system offers real-time seat availability, support for advanced search filters, and ticket bookings across multiple cinemas and cities. Customers can view seating arrangements, book their preferred seats, and receive notifications for new movie releases and booking confirmations.
 
+
+## **Requirements and Goals:**
+
+- List cities where affiliate cinemas are located.
+- Each cinema can have multiple halls, and each hall can run one movie show at a time.
+- Each movie will have multiple shows.
+- Customers should be able to search for movies by title, language, genre, release date, and city name.
+- After selecting a movie, the system should display cinemas running that movie and their available shows.
+- Customers should be able to select a show at a specific cinema and book their tickets.
+- The system should show the seating arrangement of the cinema hall, allowing customers to select multiple seats according to their preference.
+- Notifications should be sent whenever a new movie is added or a booking is made/canceled.
+- Payment options should include credit cards and cash, with the ability to apply discount coupons.
+
+## **System Design** :
+
+### **Use Case Diagram** :
+- The use case diagram highlights the key interactions between users (customers, admins, front desks) and the system, including searching for movies, 
+booking tickets, managing schedules, and making payments.
+
+### **Activity Diagram** : 
+- The activity diagram outlines the flow of operations within the system, including how users search for movies, book tickets, 
+and complete payments.
+
+### **Class Diagram** : 
+- The class diagram shows the structure of the system's classes, their attributes, methods, and the relationships between them, 
+including Movie, Cinema, Show, Booking, Customer, and more.
+
+### **Entity Relationship Diagram (ERD)** :
+- This diagram illustrates the relationships between the main entities in the CinemaMaster Booking system, 
+such as Movies, Customers, Bookings, Cinemas, and Seats.
+
+
 ## **Features**
 
 - Search movies by title, genre, language, release date, and city.
