@@ -2,7 +2,7 @@
 
 **CinemaMaster** is an online movie ticket booking system that allows users to search for movies, check available shows, reserve seats, and make secure payments. The system offers real-time seat availability, support for advanced search filters, and ticket bookings across multiple cinemas and cities. Customers can view seating arrangements, book their preferred seats, and receive notifications for new movie releases and booking confirmations.
 
-![Cinema Master](Images/CinemaMaster.jpg)
+![Cinema Master](Images/StockCake-Vintage%20Film%20Projector_1728686607.jpg)
 
 ## **Requirements and Goals:**
 
