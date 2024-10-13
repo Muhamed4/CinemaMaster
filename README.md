@@ -2,25 +2,29 @@
 
 **CinemaMaster** is an online movie ticket booking system that allows users to search for movies, check available shows, reserve seats, and make secure payments. The system offers real-time seat availability, support for advanced search filters, and ticket bookings across multiple cinemas and cities. Customers can view seating arrangements, book their preferred seats, and receive notifications for new movie releases and booking confirmations.
 
-![Cinema Master](Images/StockCake-Vintage%20Film%20Projector_1728686607.jpg)
+![Cinema Master](Images/CinemaMaster2.jpg)
 
 ## **Requirements and Goals:**
 
-- List cities where affiliate cinemas are located.
+- The system should allow users to list all cities where the affiliate cinemas are located.
 - Each cinema can have multiple halls, and each hall can run one movie show at a time.
 - Each movie will have multiple shows.
+- Display movie details such as: Cast (Actors and Directors), Ratings, Genre and language
 - Customers should be able to search for movies by title, language, genre, release date, and city name.
 - After selecting a movie, the system should display cinemas running that movie and their available shows.
 - Customers should be able to select a show at a specific cinema and book their tickets.
 - The system should show the seating arrangement of the cinema hall, allowing customers to select multiple seats according to their preference.
 - Notifications should be sent whenever a new movie is added or a booking is made/canceled.
 - Payment options should include credit cards and cash, with the ability to apply discount coupons.
+- Users should be able to leave ratings and feedback for the cinema after watching a movie.
+- Front desk officers should be able to assist in booking tickets and managing seat availability.
 
 ## **System Design** :
 
 ### **Use Case Diagram** :
-- The use case diagram highlights the key interactions between users (customers, admins, front desks) and the system, including searching for movies, 
-booking tickets, managing schedules, and making payments.
+- The use case diagram highlights the key interactions between users (guests, customers, admins, front desks) and the system, including searching for movies, 
+booking tickets, managing schedules, making payments and more.
+- ![Use Case Diagram](Images/UseCaseDiagram.png)
 
 ### **Activity Diagram** : 
 - The activity diagram outlines the flow of operations within the system, including how users search for movies, book tickets, 
