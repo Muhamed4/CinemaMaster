@@ -29,6 +29,7 @@ booking tickets, managing schedules, making payments and more.
 ### **Activity Diagram** : 
 - The activity diagram outlines the flow of operations within the system, including how users search for movies, book tickets, 
 and complete payments.
+- ![Activity Diagram](Images/ActivityDiagram.png)
 
 ### **Class Diagram** : 
 - The class diagram shows the structure of the system's classes, their attributes, methods, and the relationships between them, 
