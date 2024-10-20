@@ -34,6 +34,7 @@ and complete payments.
 ### **Class Diagram** : 
 - The class diagram shows the structure of the system's classes, their attributes, methods, and the relationships between them, 
 including Movie, Cinema, Show, Booking, Customer, and more.
+- ![Class Diagram](Images/ClassDiagram.png)
 
 ### **Entity Relationship Diagram (ERD)** :
 - This diagram illustrates the relationships between the main entities in the CinemaMaster Booking system, 
